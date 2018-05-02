@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/\347\250\213\345\272\217/python/dl/Handwritingrecognition/save/model.ckpt-29001"
+all_model_checkpoint_paths: "D:/\347\250\213\345\272\217/python/dl/Handwritingrecognition/save/model.ckpt-25001"
+all_model_checkpoint_paths: "D:/\347\250\213\345\272\217/python/dl/Handwritingrecognition/save/model.ckpt-26001"
+all_model_checkpoint_paths: "D:/\347\250\213\345\272\217/python/dl/Handwritingrecognition/save/model.ckpt-27001"
+all_model_checkpoint_paths: "D:/\347\250\213\345\272\217/python/dl/Handwritingrecognition/save/model.ckpt-28001"
+all_model_checkpoint_paths: "D:/\347\250\213\345\272\217/python/dl/Handwritingrecognition/save/model.ckpt-29001"
